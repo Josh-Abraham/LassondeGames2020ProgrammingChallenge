@@ -10,7 +10,7 @@ Run the following command: *npm install*
 
 The installation should create the required node modules for the project to run
 
-To run the code, from the directory _LassondeGames2020ProgrammingChallenge\Backend Module_ 
+To run the code, from the directory _LassondeGames2020ProgrammingChallenge\BackendModule_ 
 In the command prompt type: *node main.js*
 Open _http://127.0.0.1:8081/_ in a web browser
 
